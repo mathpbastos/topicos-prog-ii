@@ -1,7 +1,5 @@
 #include <vector>
 #include <iostream>
-#include <algorithm>
-#include <cassert>
 
 typedef struct{
     std::string nome;
